@@ -6,13 +6,16 @@ To help users find information about interesting places to visit to get inspired
 * Information about the projects including brief description, founder's info, direct donation, contact no., how to reach, awards and recognition, photo gallery etc.
 * Affiliate services such as taxi, tour planners etc.
 ### What Users can do
-Users can share experiences with videos, images, writings (not ratings).
+Users can 'post the suggestion' about the new project to be added in the app. 
+Users can share experiences by adding videos, images, writings (not ratings) of existing project listed in the app.
 ### What NGOs can do
-Requirement & Job portal for NGO/projects: NGOs shall be able to post their requirement, such as they need 20 computers for new classroom etc. Or they can post a job for full-time/partime hiring.
+Submit their metadata details for directory listing
+Can edit/change/claim existing project for review. 
+NGOs shall be able to post their requirement, such as "they need 20 computers for new classroom" etc. Or they can post a job for full-time/contract hiring.
 
 ## User Types
-* Visitor -non-loggedin user.
-* Logged in user
-* NGO
-* Moderator (can add/delete/edit content or convert user to NGO or vice versa.)
-* Admin - Can do everything Moderator can do + can delete/suspend  users.
+* Annonymous- -non loggedin user.
+* User - Logged in user
+* NGO - Logged in and verified NGO user.
+* Moderator -(can add/delete/edit content or convert user to NGO or vice versa.)
+* Admin - (Can do everything Moderator can + can delete/suspend users.)
