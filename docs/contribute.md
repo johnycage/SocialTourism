@@ -1,7 +1,7 @@
 # Thank you
-First of all, thank you for showing interest to contribute. This is an opensource and non-profit project, not just because I ❤ #opensource but also I neither have skills (of a mobile app developer) nor have enough funds to launch the apps on my own. I heavily rely on contributors to the opensource developers community for this, but can run sponsorship on github to attract the talented developers and collaborate if we have the budget.
+First of all, thank you for showing interest to contribute. This is an opensource project, not just because I ❤ #opensource but also I neither have skills (of a mobile app developer) nor have enough funds to launch the apps on my own. I heavily rely on contributors to the opensource developers community for this, but can run sponsorship on github to attract the talented developers and collaborate if we have the budget.
 
-There are 3 ways you can help: Donate, Contribute, Promote.
+There are 3 ways you can help: [1] Donate [2] Contribute [3] Promote.
 
 # Donate
 If you believe in this project and wish this to be launched soon, please consider donating.
