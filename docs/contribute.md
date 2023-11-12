@@ -7,28 +7,34 @@ There are 4 ways you can help:
 3. Promote.
 4. Invest
 
-# Donate
-Typically, people who find the app useful, wish to make donation but in this case, there are not user as it's still in-development. The project requires a lot of man-hours and variety of contributors with different set of skills. We may not always get volunteers who'd devote their time and expertise into the project, therefore we might need to hire freelancers to pace up the development. If you believe in this project and wish this to get launched soon, please consider donating.  docs/GooglePay_QR-crop.png
-
-![pranavamrute@oksbi](docs/GooglePay_QR-crop.png "Pay with Any UPI App")
-
+# 1. Donate
+Typically, people who find the app useful, wish to make donation but in this case, there are not user as it's still in-development. The project requires a lot of man-hours and variety of contributors with different set of skills. We may not always get volunteers who'd devote their time and expertise into the project, therefore we might need to hire freelancers to pace up the development. If you believe in this project and wish this to get launched soon, please consider donating.
+<img src="GooglePay_QR-crop.png" width="400" alt="pranavamrute@oksbi" title="Pay with Any UPI App">
 If you're from India or if you've a payment app that supports paying UPI, you can scan above QR code to transfer the money. In transaction details you can add note as 'github-st', further you can send me email about your donation with payment screenshot, so that I can verify and acknowledge.   
+If QR code and UPI doesn't work for you, please consider [sponsoring via GitHub platform](https://github.com/sponsors/johnycage). 
 
 
-# Contribute
+# 2. Contribute
 1. Star & Fork the repository
 2. Check the current progress and unresolved isses and features, which you can work on.
 3. Participate in discussion forums, introduce yourself and let us know the skills, tech and platforms you want to contribute to (eg. Drupal, php, content architecture, iOS, android, design, UI/UX etc.) also share your ideas on how project can be build in a better way.
 4. local setup
-    You may need Drupal, xcode or Android studio to work on the project locally.
+    You may need Drupal, Xcode or Android studio to work on the project locally.
     If you're interested in contributing to backind Drupal development, you can join the Patheon.io testing workflow. Same code shall be shared on this repository. 
 
 ## Structure
-I am planning to use Decoupled Drupal as a backend and iOS & Android app as frontend.
+I am planning to use Decoupled Drupal as a backend and shall connect to iOS & Android app as frontend.
 
-# Promote & Share
-After donating or contributing to the project, please star and share the project in your network who can contribute and help. Thank you.
+# 3. Promote & Share
+If you're not in position to donate or contribute to the code (or after donating or contributing to the project), please star and share the project in your network who can contribute and help. Tweet or write a blogpost about it, encourage others to contribut or donate. Spread the word, and help this project to take off.
+Thank you.
 
-# Invest
-Investment is the least preferred method for this project to get money. Currently the project is not launched and we cant make false promises about its ROI. However, if you're keen on ... 
-[@johnycage](https://www.github.com/johnycage/)
+# 4. Invest
+If you're keen on investing in this project with expectations of monetory returns, please email/DM me your proposal. If it matches with what we can deliver, we can discuss further! Please share following details: 
+* Amount of money (say US $5,000)
+* Duration (how long can you stay invested?)
+* ROI expectations (0% interest or 2x etc.)
+  
+Although investment is the least preferred method for us, as the project has no monetization or revenue model chalked out, I am open to hear out your proposal. 
+Yours faithfully, 
+... [@johnycage](https://www.github.com/johnycage/)
