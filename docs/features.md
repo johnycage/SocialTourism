@@ -16,6 +16,8 @@ NGOs shall be able to post their requirement, such as "they need 20 computers fo
 ## User Types
 * Annonymous- -non loggedin user.
 * User - Logged in user
+* Affiliate - Service providers, vendors, partners, marketers
 * NGO - Logged in and verified NGO user.
 * Moderator -(can add/delete/edit content or convert user to NGO or vice versa.)
+* Editor - In-house staff for content and communication. 
 * Admin - (Can do everything Moderator can + can delete/suspend users.)
