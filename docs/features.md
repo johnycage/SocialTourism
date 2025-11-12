@@ -5,7 +5,7 @@ Social Tourism
 ## Meta Description
 Discover high community impact places to cheer, inspire, contribute, and donate for the greater cause.
 ## Features of the App
-### (What Annonymous non-logged-in users can do
+### (What Annonymous, non-logged-in users can do)
 * Search and find places based on location, theme, domain, industry/category etc.
 * Information about the projects including brief description, founder's info, direct donation, contact no., how to reach, awards and recognition, photo gallery etc.
 * Affiliate services such as taxi, tour planners etc.
@@ -25,3 +25,13 @@ NGOs shall be able to post their requirement, such as "they need 20 computers fo
 * Moderator -(can add/delete/edit content or convert user to NGO or vice versa.)
 * Editor - In-house staff for content and communication. 
 * Admin - (Can do everything Moderator can + can delete/suspend users.)
+
+## Entity Hierarchy 
+
+|Rank| Machine Name| Types | Example |
+|--- |---|------------- |:-------------:|
+| 1| `ngo_trust`| NGO      | MIT |
+| 2| `ngo_site` | Places | Cambridge, MA |
+| 3| `institute` | Institutes | Sloan business school |
+| 4| `program` | Programmes | Executive Certification on Entrepreneurship |
+| 5| `project` | Projects| Library digitalisation data entry job |

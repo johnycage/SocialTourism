@@ -16,15 +16,16 @@ If QR code and UPI doesn't work for you, please consider [sponsoring via GitHub 
 
 
 # 2. Contribute
+### Structure
+Decoupled Drupal as a backend. And iOS & Android apps as the frontend. Bonus HTML/CSS/JS website as a website frontend or Drupal Theme light features.
+
+Even if you don't get the complete stack, you can contribute in pieces. Let's work on step-by-step here. 
+
 0. Let's connect! Simply DM me directly on GitHub to share your interest and ideas.
 1. Star & Fork the repository
 2. Check the current progress and unresolved issues and features, which you can work on.
-3. Participate in discussion forums, introduce yourself and let us know the skills, tech and platforms you want to contribute to (eg. Design, UI/UX, Database, Firebase, Content architecture, Android, Marketing, Communication etc.) also share your ideas on how project can be build in a better way.
-4. local setup:- You will need Android studio to work on the project locally.
+3. Participate in discussion forums, introduce yourself and let us know the skills, tech and platforms you want to contribute to (eg. headless Drupal, Design, UI/UX, Database, Firebase, Content architecture, API, Maps, Android, iOS, Marketing, Communication etc.) also share your ideas on how project can be built in a better way.
 
-### Structure
-Initially, I was planning to use Decoupled Drupal as a backend and would connect to iOS & Android app as the frontend. (which still is a great idea!). 
-But due to lack of resources and talent, I am planning to have native Android App first. (which is simpler, faster approach to get things done.)
 
 # 3. Promote & Share
 If you're not in position to donate or contribute to the code (or after donating or contributing to the project), please star and share the project in your network who can contribute and help. Tweet or write a blogpost about it, encourage others to contribute or donate. Spread the word, and help this project to take off. 'Star it', comne on! that's the least you can do. 😀
