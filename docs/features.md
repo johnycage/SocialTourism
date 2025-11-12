@@ -1,8 +1,12 @@
 # Objective of the App
 To help users find information about interesting places to visit to get inspired and contribute/donate to the project with community service
-
+## Title
+Social Tourism
+## Meta Description
+Discover high community impact places to cheer, inspire, contribute, and donate for the greater cause.
 ## Features of the App
-* Search and find places based on location, theme, language etc.
+### (What Annonymous non-logged-in users can do
+* Search and find places based on location, theme, domain, industry/category etc.
 * Information about the projects including brief description, founder's info, direct donation, contact no., how to reach, awards and recognition, photo gallery etc.
 * Affiliate services such as taxi, tour planners etc.
 ### What Users can do
