@@ -1,0 +1,35 @@
+# Composer & vendor
+vendor/
+
+# Drupal core & contrib (re-created by composer)
+web/core/
+web/modules/contrib/
+web/themes/contrib/
+web/profiles/contrib/
+web/libraries/
+
+# User uploads / private
+web/sites/*/files/
+web/sites/*/private/
+web/sites/*/translations/
+
+# Local settings (never commit real credentials)
+web/sites/*/services.yml
+web/sites/*/settings*.php
+
+# Cache / generated assets
+web/sites/default/files/php/
+web/sites/default/files/styles/
+web/sites/default/files/js/
+web/sites/default/files/css/
+web/sites/*/files/tmp/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+*.swp
+*.swo
+Thumbs.db
