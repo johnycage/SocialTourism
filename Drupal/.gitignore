@@ -24,7 +24,7 @@ web/sites/default/files/js/
 web/sites/default/files/css/
 web/sites/*/files/tmp/
 
-# OS / IDE
+# OS / IDE 
 .DS_Store
 .idea/
 .vscode/

@@ -17,8 +17,7 @@
    `composer install`
    **Optional** Activate drush
    `composer require drush/drush`
-3. Add User &amp; Database connection details
-   Edit config file `web/sites/default/settings.local.php`
-4. Point the web root to `/home/yourname/SocialTourism/Drupal/web/`
-5. Setup Drupal using browser installer
+3. Point the web root to `/home/yourname/SocialTourism/Drupal/web/`
+4. Make sure that Database server is running and username, database is added. 
+5. Setup Drupal using browser installer walkthrough
    **OR** use `drush site:install`
